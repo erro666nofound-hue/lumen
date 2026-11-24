@@ -1,0 +1,12 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lumen 2 (R-1, QĐ-041): logo của design dynsle — ô màu nhấn bo tròn,
+       icon sóng nhạc "graphic_eq" màu mực. Màu nhấn là màu mặc định của dynsle. -->
+  <rect width="128" height="128" rx="34" fill="#b5cad5" />
+  <rect x="18.0" y="51.0" width="8" height="26" rx="4.0" fill="#1b1b1c" />
+  <rect x="32.0" y="35.0" width="8" height="58" rx="4.0" fill="#1b1b1c" />
+  <rect x="46.0" y="44.0" width="8" height="40" rx="4.0" fill="#1b1b1c" />
+  <rect x="60.0" y="23.0" width="8" height="82" rx="4.0" fill="#1b1b1c" />
+  <rect x="74.0" y="44.0" width="8" height="40" rx="4.0" fill="#1b1b1c" />
+  <rect x="88.0" y="35.0" width="8" height="58" rx="4.0" fill="#1b1b1c" />
+  <rect x="102.0" y="51.0" width="8" height="26" rx="4.0" fill="#1b1b1c" />
+</svg>

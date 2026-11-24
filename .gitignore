@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Dữ liệu cá nhân không bao giờ vào repo
+*.db
+*.db-*
+*.mp3
+*.m4a
+*.opus
+.env
+*.local.json
+
+# Rác hệ thống
+.DS_Store
+*.swp

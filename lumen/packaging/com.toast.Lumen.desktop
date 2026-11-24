@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Lumen
+Comment=Nghe nhạc tối giản
+Comment[en]=Minimal music player
+Exec=__EXEC__
+Icon=com.toast.Lumen
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;youtube;player;mp3;
+StartupNotify=true
+StartupWMClass=com.toast.Lumen
+X-GNOME-UsesNotifications=true
